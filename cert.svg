@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="817" height="252" viewBox="0 0 817 252">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1280_3);
+      }
+
+      .cls-2 {
+        fill: #2968b3;
+      }
+
+      .cls-3 {
+        fill: #3484c8;
+        font-size: 184px;
+      }
+
+      .cls-10, .cls-3, .cls-5 {
+        font-family: Avenir-Book, Avenir;
+      }
+
+      .cls-15, .cls-4, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #3484c8;
+      }
+
+      .cls-4, .cls-7 {
+        stroke-width: 3px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-7, .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-8 {
+        stroke: #2968b3;
+        stroke-linecap: round;
+      }
+
+      .cls-9 {
+        stroke-width: 7px;
+      }
+
+      .cls-10, .cls-11 {
+        font-size: 13px;
+      }
+
+      .cls-11 {
+        font-family: Avenir-Black, Avenir;
+        font-weight: 800;
+      }
+
+      .cls-12 {
+        font-size: 9px;
+      }
+
+      .cls-12, .cls-13 {
+        font-family: Avenir-Medium, Avenir;
+        font-weight: 500;
+      }
+
+      .cls-13 {
+        font-size: 10px;
+      }
+
+      .cls-14 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Web_1280_3">
+      <rect width="817" height="252"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1280_3" data-name="Web 1280 – 3" class="cls-1">
+    <rect class="cls-6" width="817" height="252"/>
+    <g id="Grupo_24431" data-name="Grupo 24431" transform="translate(-3 3)">
+      <g id="Grupo_24430" data-name="Grupo 24430">
+        <rect id="Rectángulo_1" data-name="Rectángulo 1" class="cls-2" width="500" height="252" rx="10" transform="translate(3 -3)"/>
+        <text id="_1" data-name="1" class="cls-3" transform="translate(-8 189)"><tspan x="0" y="0">1</tspan></text>
+        <text id="_2" data-name="2" class="cls-3" transform="translate(235 189)"><tspan x="0" y="0">2</tspan></text>
+        <text id="_3" data-name="3" class="cls-3" transform="translate(537 189)"/>
+        <path id="Trazado_1" data-name="Trazado 1" class="cls-4" d="M777.148,400V649.862" transform="translate(-550.672 -402.983)"/>
+        
+        <text id="Token" class="cls-5" transform="translate(342 220)"><tspan x="-21.2" y="0">Token</tspan></text>
+        <g id="Grupo_1" data-name="Grupo 1" transform="translate(100.384 16.478)">
+          <rect id="Rectángulo_6" data-name="Rectángulo 6" class="cls-6" width="60" height="90" rx="12" transform="translate(-0.384 -0.478)"/>
+          <rect id="Rectángulo_7" data-name="Rectángulo 7" class="cls-2" width="47" height="58" transform="translate(6.616 16.522)"/>
+          <circle id="Elipse_1" data-name="Elipse 1" class="cls-2" cx="4.5" cy="4.5" r="4.5" transform="translate(25.616 76.522)"/>
+          <rect id="Rectángulo_8" data-name="Rectángulo 8" class="cls-2" width="25" height="6" rx="3" transform="translate(17.616 6.522)"/>
+        </g>
+        <g id="Grupo_3" data-name="Grupo 3" transform="translate(356.808 25.636)">
+          <g id="Grupo_2" data-name="Grupo 2">
+            <g id="Rectángulo_9" data-name="Rectángulo 9" class="cls-7" transform="translate(11.192 0.364)">
+              <rect class="cls-14" width="99" height="67"/>
+              <rect class="cls-15" x="1.5" y="1.5" width="96" height="64"/>
+            </g>
+            <rect id="Rectángulo_10" data-name="Rectángulo 10" class="cls-6" width="120" height="7" transform="translate(0.192 65.364)"/>
+            <line id="Línea_1" data-name="Línea 1" class="cls-8" x2="13.737" transform="translate(57.81 68.685)"/>
+            <line id="Línea_2" data-name="Línea 2" class="cls-8" x2="40.066" transform="translate(76.126 68.685)"/>
+            <path id="Trazado_17598" data-name="Trazado 17598" class="cls-6" d="M1011.122,482.168l-12.247-1.332h-95.03l-12.31,1.332Z" transform="translate(-890.923 -416.918)"/>
+          </g>
+          <rect id="Rectángulo_11" data-name="Rectángulo 11" class="cls-6" width="83" height="50" transform="translate(19.192 8.364)"/>
+        </g>
+        <g id="Grupo_6" data-name="Grupo 6" transform="translate(677.339 8.465)">
+          
+          
+          
+          
+        </g>
+        <text id="Para_Ingresar" data-name="Para Ingresar" class="cls-10" transform="translate(104 122)"/>
+        <text id="Para_Ingresar-2" data-name="Para Ingresar" class="cls-10" transform="translate(375 122)"><tspan x="-37.7" y="0">Para Ingresar</tspan></text>
+        <text id="Registra_este_dispositivo" data-name="Registra este dispositivo" class="cls-10" transform="translate(641 121)"><tspan x="0" y="0">Registra este dispositivo</tspan></text>
+        <text id="GENERAR_TOKEN" data-name="GENERAR TOKEN" class="cls-11" transform="translate(123 137)"><tspan x="-56.934" y="0">TOKEN GENERADO</tspan></text>
+        <text id="VALIDAR_TOKEN" data-name="VALIDAR TOKEN" class="cls-11" transform="translate(337 137)"><tspan x="0" y="0">VALIDAR TOKEN</tspan></text>
+        <text id="INGRESA" class="cls-11" transform="translate(641 137)"><tspan x="0" y="0">INGRESA</tspan></text>
+        <text id="Presiona_el_botón_para_recibir_un_token_por_medio_de_un_mensaje_de_texto_al_celular_que_tiene_afiliado." data-name="Presiona el botón para recibir un token por medio de un mensaje de texto al celular que tiene afiliado." class="cls-12" transform="translate(66 154)"><tspan x="0" y="9">Se ha enviado un token SMS </tspan><tspan x="0" y="19">a su celular afiliado</tspan></text>
+        <text id="Ingrese_el_token_que_recibió_en_su_celular_y_luego_presione_Validar_Token_para_iniciar_sesión" data-name="Ingrese el token que recibió en su celular y luego presione &quot;Validar Token&quot; para iniciar sesión" class="cls-12" transform="translate(341 154)"><tspan x="0" y="9">Ingrese el token que recibió en su </tspan><tspan x="0" y="19">celular y luego presione "Validar </tspan><tspan x="0" y="29">Token" para iniciar sesión</tspan></text>
+        <text id="Puede_dejar_este_dispositivo_registrado_en_su_banca_seleccionando_la_opción:" data-name="Puede dejar este dispositivo registrado en su banca seleccionando la opción:" class="cls-12" transform="translate(641 154)"><tspan x="0" y="9">Puede dejar este dispositivo </tspan><tspan x="0" y="19">registrado en su banca </tspan><tspan x="0" y="29">seleccionando la opción:</tspan></text>
+        <text id="Guardar_dispositivo" data-name="Guardar dispositivo" class="cls-13" transform="translate(659 200)"><tspan x="0" y="0">Guardar dispositivo</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
